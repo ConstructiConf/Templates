@@ -8,6 +8,7 @@
   - Make sure it's in the same root directory from the previous set of steps
 - Type the following commands:
 
-> npm install
-
-> npm start
+```
+npm install
+npm start
+```
